@@ -4,5 +4,5 @@ This repository contains the two assignments of the course Operating Systems Ι.
 - `Assignment #1`:
 For this assignment we had to implement a server-client model for the operation and management of a pizzeria, using forks, shared memory, sockets, semaphores and signals.
 
-Assignment #2:
+- `Assignment #2`:
 For this assignment we had to implement the same server-client model as above, but this time we had to use threads instead of forks.
